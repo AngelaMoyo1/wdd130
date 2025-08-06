@@ -20,8 +20,9 @@ body {
 }
 
 header, main, footer {
-  width: 840px;
+  max-width: 840px;
   margin: 0 auto;
+  width: 100%;
 }
 
 header {
